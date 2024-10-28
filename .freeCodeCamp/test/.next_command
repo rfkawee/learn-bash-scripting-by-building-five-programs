@@ -46,3 +46,5 @@ ls --color=auto -l
 ./questionnaire.sh
 cho QUESTION1
 ./questionnaire.sh
+echo hello Alwi
+echo Hello $NAME
