@@ -44,3 +44,4 @@ ls --color=auto -l
 ./questionnaire.sh
 ls --color=auto -l
 ./questionnaire.sh
+cho QUESTION1
