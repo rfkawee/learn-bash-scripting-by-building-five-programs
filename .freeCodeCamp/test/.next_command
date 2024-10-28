@@ -101,3 +101,5 @@ bad_file.txt
 [[ -n bad_file.txt ]]
 [[-a bad_file.txt ]]
 [[ -a bad_file.txt ]]
+[[ -a countdown.sh ]]
+[[ -x countdown.sh ]]
