@@ -154,3 +154,4 @@ declare -p
 declare -p J
 declare -p NUMBER
 declare -p RANDOM
+echo $(( RANDOM % 75 ))
