@@ -33,3 +33,4 @@ hello bash
 echo hello bash
 touch questionnaire.sh
 echo hello questionnaire
+sh questionnaire.sh
