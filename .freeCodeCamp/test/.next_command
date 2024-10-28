@@ -95,3 +95,4 @@ ls --color=auto
 ls --color=auto
 ls-y
 ls --color=auto -y
+help test
