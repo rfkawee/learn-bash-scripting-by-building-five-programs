@@ -104,3 +104,5 @@ bad_file.txt
 [[ -a countdown.sh ]]
 [[ -x countdown.sh ]]
 help [[ expression ]]
+__vsc_prompt_cmd_original
+[[ -x countdown.sh && 5 -le 4 ]]
