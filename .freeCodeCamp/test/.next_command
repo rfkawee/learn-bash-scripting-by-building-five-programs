@@ -48,3 +48,4 @@ cho QUESTION1
 ./questionnaire.sh
 echo hello Alwi
 echo Hello $NAME
+./questionnaire.sh
