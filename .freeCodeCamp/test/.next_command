@@ -58,3 +58,6 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 touch countdown.sh
+history
+chmod +x questionnaire.sh
+chmod +x countdown.sh
